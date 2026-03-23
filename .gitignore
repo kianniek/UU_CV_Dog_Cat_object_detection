@@ -237,3 +237,4 @@ data/*
 
 *.pdf
 CONTRIBUTING.md
+notebooks/data/*
