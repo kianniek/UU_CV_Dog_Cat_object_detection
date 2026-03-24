@@ -238,3 +238,4 @@ data/*
 *.pdf
 CONTRIBUTING.md
 notebooks/data/*
+notebooks/results/*
