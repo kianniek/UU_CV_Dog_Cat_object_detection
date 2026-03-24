@@ -8,3 +8,9 @@ scikit-learn
 jupyter
 tqdm
 kagglehub[pandas-datasets]
+torch>=2.0.0
+torchvision>=0.15.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+optree>=0.13.0
